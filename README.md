@@ -15,4 +15,4 @@
 # React Phonebook app
 
 1. Change to project directory
-2. Run command 'npm start' to start react server
+2. Run command 'npm start' to start React server
